@@ -9,7 +9,7 @@
   - [Swagger | OpenAPI](https://swagger.io/solutions/getting-started-with-oas/) v2.0
 
 ## Instructions
-If you don't have a Python virtual environment, [create a one](https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments). Otherwise, *skip* to next step.
+If you don't have a Python virtual environment, [create one](https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments). Otherwise, *skip* to next step.
 
 `python3 -m venv {{YOUR_VIRTUAL_ENVIRONMENT}}`
 
